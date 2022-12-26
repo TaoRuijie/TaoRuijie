@@ -6,9 +6,6 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/mFPwfzj1iR8dy/giphy.gif" />
-  
-
 **Languages and Tools:**  
 
 ![TaoRuijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoRuijie&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![TaoRuijie](https://github-readme-stats.vercel.app/api/top-langs/?username=TaoRuijie&hide=html&layout=compact&theme=radical)
