@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Tao Ruijie!](https://taoruijie.github.io) 
+### Hi 👋🏽, I'm [Tao Ruijie!](https://taoruijie.github.io) 
 
 <br />
 
