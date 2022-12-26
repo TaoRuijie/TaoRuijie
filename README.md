@@ -8,5 +8,5 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 **Languages and Tools:**  
 
-![TaoRuijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoRuijie&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![TaoRuijie](https://github-readme-stats.vercel.app/api/top-langs/?username=TaoRuijie&hide=html&layout=compact&theme=radical)
+![TaoRuijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoRuijie&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaoRuijie&theme=monokai&count_private=true&include_all_commits=true)
